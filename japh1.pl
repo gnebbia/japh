@@ -23,7 +23,7 @@ use Modern::Perl;
 
 say chr($_) foreach qw/ 
 74	117 
-115 	116 
+115		116 
 20 			97 
 110 			111
 116				104
